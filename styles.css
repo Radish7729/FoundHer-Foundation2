@@ -1,0 +1,16 @@
+img {
+    width: 95vh;
+}
+body{
+    text-align: center;
+    border: 10px solid bisque;
+    margin: 200px;
+    padding-top: 10px;
+    padding-left: 20px;
+    font-family: 'Comic Sans', monospace;
+    background-color: teal;
+    color: palegoldenrod;
+}
+    p{
+        font-size: 20px;
+    }
